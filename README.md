@@ -16,14 +16,14 @@ The batch script (`.bat`) in this repository uses the **Deployment Image Servici
 Follow the steps below to enable `gpedit.msc` on your computer.
 
 1.  **Download the Script**
-    * Click on the `Enable-GPEdit-Windows-Home.bat` file in this repository.
+    * Click on the `gpeditWindows-fix.bat` file in this repository.
     * Click the **Raw** or **Download** button.
     * Right-click on the page and select **"Save as..."**.
-    * Ensure the `Save as type` is set to **"All Files"** and save the file with the name `Enable-GPEdit-Windows-Home.bat`.
+    * Ensure the `Save as type` is set to **"All Files"** and save the file with the name `gpeditWindows-fix.bat`.
 
 2.  **Run as Administrator**
     * Locate the file you just downloaded.
-    * Right-click on the `Enable-GPEdit-Windows-Home.bat` file.
+    * Right-click on the `gpeditWindows-fix.bat` file.
     * Select **"Run as administrator"**.
 
 3.  **Wait for the Process to Complete**
